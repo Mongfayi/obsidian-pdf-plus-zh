@@ -26,4 +26,4 @@ https://github.com/RyotaUshio/obsidian-pdf-plus
 
 ## 致谢
 
-中文本地化由 DeepSeek 完成。
+由 DeepSeek 完成。
