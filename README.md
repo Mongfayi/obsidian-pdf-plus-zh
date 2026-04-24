@@ -12,7 +12,7 @@ https://github.com/RyotaUshio/obsidian-pdf-plus
    ```
    D:\obsidian\cangku\仓库名称\.obsidian\plugins
    ```
-2. 确保目录中包含 `main.js` 和 `manifest.json` 文件
+2. 确保目录中包含 `main.js` 和 `manifest.json` 文件（可能目录下有且仅有他们就可以了，你可以试一下）
 3. 重启 Obsidian或在插件设置中启用本插件
 
 ## 关于汉化
@@ -26,4 +26,4 @@ https://github.com/RyotaUshio/obsidian-pdf-plus
 
 ## 致谢
 
-中文本地化由 DeepSeek 完成。
+由 DeepSeek 完成，我不知道他具体修改了哪些内容，只知道英文变成中文了。
