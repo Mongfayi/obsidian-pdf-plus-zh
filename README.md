@@ -27,3 +27,9 @@ https://github.com/RyotaUshio/obsidian-pdf-plus
 ## 致谢
 
 由 DeepSeek 完成，我不知道他具体修改了哪些内容，只知道英文变成中文了。
+
+## 捐赠
+
+如果觉得这个汉化版对你有帮助，欢迎扫码支持：
+
+<img src="abcde.jpg" width="200" />
